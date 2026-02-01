@@ -1,0 +1,77 @@
+# ADIT Preparation Book - Git Ignore File
+# Documentation/Content Development Project
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Build outputs (if generating PDF)
+*.pdf
+!book/final/*.pdf
+build/
+output/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+logs/
+
+# Draft/working files not ready for commit
+drafts/
+_drafts/
+*.draft.md
+
+# Personal notes (not for repo)
+notes/
+_notes/
+*.notes.md
+
+# Diagram source files (keep exports only)
+*.drawio
+*.drawio.bkp
+
+# Image editing source files
+*.psd
+*.ai
+*.sketch
+
+# Large media files (use Git LFS if needed)
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+
+# Node modules (if using any build tools)
+node_modules/
+
+# Python virtual environment (if using any scripts)
+venv/
+.venv/
+__pycache__/
+*.pyc
