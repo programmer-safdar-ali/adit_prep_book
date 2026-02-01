@@ -14,7 +14,7 @@
 | 04 | Server Administration - Windows & Linux | 04-server-admin | Complete | [x] |
 | 05 | Database Management Systems | 05-database | Complete | [x] |
 | 06 | Data Structures & Algorithms | 06-data-structures | Complete | [x] |
-| 07 | Object-Oriented Programming (OOP) | 07-oop | Pending | [ ] |
+| 07 | Object-Oriented Programming (OOP) | 07-oop | Complete | [x] |
 | 08 | Software Development Methodologies | 08-sdlc | Pending | [ ] |
 | 09 | Cloud Computing & Virtualization | 09-cloud-computing | Pending | [ ] |
 | 10 | Cybersecurity & Information Security | 10-cybersecurity | Pending | [ ] |
