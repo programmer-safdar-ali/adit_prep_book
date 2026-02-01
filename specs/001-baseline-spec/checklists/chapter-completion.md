@@ -10,8 +10,8 @@
 |---|---------|-----------|---------|--------|
 | 01 | Introduction to IT for Public Service | 01-introduction | Pending | [ ] |
 | 02 | Core Networking Fundamentals | 02-networking | Complete | [x] |
-| 03 | Network Security & Infrastructure Protection | 03-network-security | Pending | [ ] |
-| 04 | Server Administration - Windows & Linux | 04-server-admin | Pending | [ ] |
+| 03 | Network Security & Infrastructure Protection | 03-network-security | Complete | [x] |
+| 04 | Server Administration - Windows & Linux | 04-server-admin | Complete | [x] |
 | 05 | Database Management Systems | 05-database | Pending | [ ] |
 | 06 | Data Structures & Algorithms | 06-data-structures | Pending | [ ] |
 | 07 | Object-Oriented Programming (OOP) | 07-oop | Pending | [ ] |
