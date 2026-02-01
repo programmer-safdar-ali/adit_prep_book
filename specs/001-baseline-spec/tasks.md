@@ -51,20 +51,20 @@ book/
 
 **⚠️ CRITICAL**: No chapter content work can begin until this phase is complete
 
-- [ ] T011 Populate chapter-template.md with all 11 required sections per contracts/chapter-schema.md in book/templates/chapter-template.md
-- [ ] T012 [P] Add Bloom's Taxonomy verb reference to chapter-template.md in book/templates/chapter-template.md
-- [ ] T013 [P] Add difficulty indicator guide (B/I/A/E) to chapter-template.md in book/templates/chapter-template.md
-- [ ] T014 Populate mcq-template.md with full format per contracts/mcq-schema.md in book/templates/mcq-template.md
-- [ ] T015 [P] Add distractor explanation section to mcq-template.md in book/templates/mcq-template.md
-- [ ] T016 [P] Add difficulty distribution guide to mcq-template.md in book/templates/mcq-template.md
-- [ ] T017 Populate lab-template.md with 5-section structure per research.md in book/templates/lab-template.md
-- [ ] T018 [P] Add troubleshooting table format to lab-template.md in book/templates/lab-template.md
-- [ ] T019 Populate review-checklist.md with 3-phase review process per contracts/review-checklist-schema.md in book/templates/review-checklist.md
-- [ ] T020 [P] Create technical review checklist section in book/templates/review-checklist.md
-- [ ] T021 [P] Create editorial review checklist section in book/templates/review-checklist.md
-- [ ] T022 [P] Create quality gate checklist section in book/templates/review-checklist.md
-- [ ] T023 Create citation format reference document in book/templates/citation-guide.md
-- [ ] T024 [P] Create diagram labeling convention guide in book/templates/diagram-guide.md
+- [x] T011 Populate chapter-template.md with all 11 required sections per contracts/chapter-schema.md in book/templates/chapter-template.md
+- [x] T012 [P] Add Bloom's Taxonomy verb reference to chapter-template.md in book/templates/chapter-template.md
+- [x] T013 [P] Add difficulty indicator guide (B/I/A/E) to chapter-template.md in book/templates/chapter-template.md
+- [x] T014 Populate mcq-template.md with full format per contracts/mcq-schema.md in book/templates/mcq-template.md
+- [x] T015 [P] Add distractor explanation section to mcq-template.md in book/templates/mcq-template.md
+- [x] T016 [P] Add difficulty distribution guide to mcq-template.md in book/templates/mcq-template.md
+- [x] T017 Populate lab-template.md with 5-section structure per research.md in book/templates/lab-template.md
+- [x] T018 [P] Add troubleshooting table format to lab-template.md in book/templates/lab-template.md
+- [x] T019 Populate review-checklist.md with 3-phase review process per contracts/review-checklist-schema.md in book/templates/review-checklist.md
+- [x] T020 [P] Create technical review checklist section in book/templates/review-checklist.md
+- [x] T021 [P] Create editorial review checklist section in book/templates/review-checklist.md
+- [x] T022 [P] Create quality gate checklist section in book/templates/review-checklist.md
+- [x] T023 Create citation format reference document in book/templates/citation-guide.md
+- [x] T024 [P] Create diagram labeling convention guide in book/templates/diagram-guide.md
 
 **Checkpoint**: Foundation ready - content authors can now create chapters using standardized templates
 
@@ -80,29 +80,29 @@ book/
 
 #### 3.1: High-Priority Chapter Scaffolding
 
-- [ ] T025 [P] [US1] Create Chapter 2 directory structure in book/chapters/02-networking/
-- [ ] T026 [P] [US1] Create Chapter 3 directory structure in book/chapters/03-network-security/
-- [ ] T027 [P] [US1] Create Chapter 9 directory structure in book/chapters/09-cloud-computing/
-- [ ] T028 [P] [US1] Create Chapter 10 directory structure in book/chapters/10-cybersecurity/
+- [x] T025 [P] [US1] Create Chapter 2 directory structure in book/chapters/02-networking/
+- [x] T026 [P] [US1] Create Chapter 3 directory structure in book/chapters/03-network-security/
+- [x] T027 [P] [US1] Create Chapter 9 directory structure in book/chapters/09-cloud-computing/
+- [x] T028 [P] [US1] Create Chapter 10 directory structure in book/chapters/10-cybersecurity/
 
 #### 3.2: Chapter 2 - Core Networking Fundamentals (55 pages, 250 MCQs, 5 labs)
 
-- [ ] T029 [US1] Copy chapter-template.md to book/chapters/02-networking/content.md
-- [ ] T030 [US1] Fill Chapter 2 Overview section (domain, study time, prerequisites) in book/chapters/02-networking/content.md
-- [ ] T031 [US1] Write Chapter 2 Learning Objectives (4+ using Bloom's verbs) in book/chapters/02-networking/content.md
-- [ ] T032 [US1] Write Chapter 2 Introduction (2-3 paragraphs, ADIT relevance) in book/chapters/02-networking/content.md
-- [ ] T033 [US1] Write Section 2.1: Network Models and Architecture (B) in book/chapters/02-networking/content.md
-- [ ] T034 [US1] Write Section 2.2: IP Addressing and Subnetting (I) in book/chapters/02-networking/content.md
-- [ ] T035 [US1] Write Section 2.3: Network Devices and Topologies (I) in book/chapters/02-networking/content.md
-- [ ] T036 [US1] Write Section 2.4: Network Protocols (A) in book/chapters/02-networking/content.md
-- [ ] T037 [US1] Write Section 2.5: Enterprise Network Design (E) in book/chapters/02-networking/content.md
-- [ ] T038 [US1] Add 12-15 practical examples throughout Chapter 2 sections in book/chapters/02-networking/content.md
-- [ ] T039 [US1] Write Chapter 2 Summary and Key Takeaways (5 items) in book/chapters/02-networking/content.md
-- [ ] T040 [US1] Write Chapter 2 Self-Assessment Questions (3-5 open-ended) in book/chapters/02-networking/content.md
+- [x] T029 [US1] Copy chapter-template.md to book/chapters/02-networking/content.md
+- [x] T030 [US1] Fill Chapter 2 Overview section (domain, study time, prerequisites) in book/chapters/02-networking/content.md
+- [x] T031 [US1] Write Chapter 2 Learning Objectives (4+ using Bloom's verbs) in book/chapters/02-networking/content.md
+- [x] T032 [US1] Write Chapter 2 Introduction (2-3 paragraphs, ADIT relevance) in book/chapters/02-networking/content.md
+- [x] T033 [US1] Write Section 2.1: Network Models and Architecture (B) in book/chapters/02-networking/content.md
+- [x] T034 [US1] Write Section 2.2: IP Addressing and Subnetting (I) in book/chapters/02-networking/content.md
+- [x] T035 [US1] Write Section 2.3: Network Devices and Topologies (I) in book/chapters/02-networking/content.md
+- [x] T036 [US1] Write Section 2.4: Network Protocols (A) in book/chapters/02-networking/content.md
+- [x] T037 [US1] Write Section 2.5: Enterprise Network Design (E) in book/chapters/02-networking/content.md
+- [x] T038 [US1] Add 12-15 practical examples throughout Chapter 2 sections in book/chapters/02-networking/content.md
+- [x] T039 [US1] Write Chapter 2 Summary and Key Takeaways (5 items) in book/chapters/02-networking/content.md
+- [x] T040 [US1] Write Chapter 2 Self-Assessment Questions (3-5 open-ended) in book/chapters/02-networking/content.md
 
 #### 3.3: Chapter 2 MCQs (250 questions)
 
-- [ ] T041 [US1] Create mcqs.md file from mcq-template.md in book/chapters/02-networking/mcqs.md
+- [x] T041 [US1] Create mcqs.md file from mcq-template.md in book/chapters/02-networking/mcqs.md
 - [ ] T042 [US1] Write 63 Beginner (B) MCQs for Chapter 2 in book/chapters/02-networking/mcqs.md
 - [ ] T043 [US1] Write 88 Intermediate (I) MCQs for Chapter 2 in book/chapters/02-networking/mcqs.md
 - [ ] T044 [US1] Write 75 Advanced (A) MCQs for Chapter 2 in book/chapters/02-networking/mcqs.md
@@ -112,8 +112,8 @@ book/
 
 #### 3.4: Chapter 2 Labs (5 exercises)
 
-- [ ] T048 [US1] Create labs directory in book/chapters/02-networking/labs/
-- [ ] T049 [US1] Write Lab 2.1: IPv4 Subnetting Exercise in book/chapters/02-networking/labs/lab-02-01-subnetting.md
+- [x] T048 [US1] Create labs directory in book/chapters/02-networking/labs/
+- [x] T049 [US1] Write Lab 2.1: IPv4 Subnetting Exercise in book/chapters/02-networking/labs/lab-02-01-subnetting.md
 - [ ] T050 [US1] Write Lab 2.2: Configure VLANs in book/chapters/02-networking/labs/lab-02-02-vlans.md
 - [ ] T051 [US1] Write Lab 2.3: Packet Analysis with Wireshark in book/chapters/02-networking/labs/lab-02-03-wireshark.md
 - [ ] T052 [US1] Write Lab 2.4: Basic Router Configuration in book/chapters/02-networking/labs/lab-02-04-router-config.md
