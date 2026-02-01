@@ -16,7 +16,7 @@
 | 06 | Data Structures & Algorithms | 06-data-structures | Complete | [x] |
 | 07 | Object-Oriented Programming (OOP) | 07-oop | Complete | [x] |
 | 08 | Software Development Methodologies | 08-sdlc | Complete | [x] |
-| 09 | Cloud Computing & Virtualization | 09-cloud-computing | Pending | [ ] |
+| 09 | Cloud Computing & Virtualization | 09-cloud-computing | Complete | [x] |
 | 10 | Cybersecurity & Information Security | 10-cybersecurity | Pending | [ ] |
 | 11 | Storage Technologies & Data Management | 11-storage | Pending | [ ] |
 | 12 | IT Governance & Policy Development | 12-it-governance | Pending | [ ] |
