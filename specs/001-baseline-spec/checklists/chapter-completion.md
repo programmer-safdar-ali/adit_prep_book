@@ -13,7 +13,7 @@
 | 03 | Network Security & Infrastructure Protection | 03-network-security | Complete | [x] |
 | 04 | Server Administration - Windows & Linux | 04-server-admin | Complete | [x] |
 | 05 | Database Management Systems | 05-database | Complete | [x] |
-| 06 | Data Structures & Algorithms | 06-data-structures | Pending | [ ] |
+| 06 | Data Structures & Algorithms | 06-data-structures | Complete | [x] |
 | 07 | Object-Oriented Programming (OOP) | 07-oop | Pending | [ ] |
 | 08 | Software Development Methodologies | 08-sdlc | Pending | [ ] |
 | 09 | Cloud Computing & Virtualization | 09-cloud-computing | Pending | [ ] |
