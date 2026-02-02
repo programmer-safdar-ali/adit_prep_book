@@ -8,7 +8,7 @@
 
 | # | Chapter | Directory | Content | Status |
 |---|---------|-----------|---------|--------|
-| 01 | Introduction to IT for Public Service | 01-introduction | Pending | [ ] |
+| 01 | Introduction to IT for Public Service | 01-introduction | Complete | [x] |
 | 02 | Core Networking Fundamentals | 02-networking | Complete | [x] |
 | 03 | Network Security & Infrastructure Protection | 03-network-security | Complete | [x] |
 | 04 | Server Administration - Windows & Linux | 04-server-admin | Complete | [x] |
