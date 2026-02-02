@@ -17,7 +17,7 @@
 | 07 | Object-Oriented Programming (OOP) | 07-oop | Complete | [x] |
 | 08 | Software Development Methodologies | 08-sdlc | Complete | [x] |
 | 09 | Cloud Computing & Virtualization | 09-cloud-computing | Complete | [x] |
-| 10 | Cybersecurity & Information Security | 10-cybersecurity | Pending | [ ] |
+| 10 | Cybersecurity & Information Security | 10-cybersecurity | Complete | [x] |
 | 11 | Storage Technologies & Data Management | 11-storage | Pending | [ ] |
 | 12 | IT Governance & Policy Development | 12-it-governance | Pending | [ ] |
 | 13 | Big Data & Modern Technologies | 13-big-data | Pending | [ ] |
