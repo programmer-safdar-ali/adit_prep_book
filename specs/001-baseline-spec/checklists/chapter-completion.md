@@ -20,7 +20,7 @@
 | 10 | Cybersecurity & Information Security | 10-cybersecurity | Complete | [x] |
 | 11 | Storage Technologies & Data Management | 11-storage | Complete | [x] |
 | 12 | IT Governance & Policy Development | 12-it-governance | Complete | [x] |
-| 13 | Big Data & Modern Technologies | 13-big-data | Pending | [ ] |
+| 13 | Big Data & Modern Technologies | 13-big-data | Complete | [x] |
 | 14 | Network Protocols & Communication | 14-protocols | Pending | [ ] |
 | 15 | Computer Hardware & Architecture | 15-hardware | Pending | [ ] |
 | 16 | Project Management & Financial Aspects | 16-project-management | Pending | [ ] |
