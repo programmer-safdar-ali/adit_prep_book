@@ -21,7 +21,7 @@
 | 11 | Storage Technologies & Data Management | 11-storage | Complete | [x] |
 | 12 | IT Governance & Policy Development | 12-it-governance | Complete | [x] |
 | 13 | Big Data & Modern Technologies | 13-big-data | Complete | [x] |
-| 14 | Network Protocols & Communication | 14-protocols | Pending | [ ] |
+| 14 | Network Protocols & Communication | 14-protocols | Complete | [x] |
 | 15 | Computer Hardware & Architecture | 15-hardware | Pending | [ ] |
 | 16 | Project Management & Financial Aspects | 16-project-management | Pending | [ ] |
 | 17 | Logic & Problem-Solving | 17-logic | Pending | [ ] |
