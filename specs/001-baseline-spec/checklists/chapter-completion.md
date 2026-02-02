@@ -19,7 +19,7 @@
 | 09 | Cloud Computing & Virtualization | 09-cloud-computing | Complete | [x] |
 | 10 | Cybersecurity & Information Security | 10-cybersecurity | Complete | [x] |
 | 11 | Storage Technologies & Data Management | 11-storage | Complete | [x] |
-| 12 | IT Governance & Policy Development | 12-it-governance | Pending | [ ] |
+| 12 | IT Governance & Policy Development | 12-it-governance | Complete | [x] |
 | 13 | Big Data & Modern Technologies | 13-big-data | Pending | [ ] |
 | 14 | Network Protocols & Communication | 14-protocols | Pending | [ ] |
 | 15 | Computer Hardware & Architecture | 15-hardware | Pending | [ ] |
